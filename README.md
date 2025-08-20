@@ -1,1 +1,1 @@
-# Flood-dector-with-sms-alert
+# Flood-detector-with-sms-alert
